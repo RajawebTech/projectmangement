@@ -1,5 +1,8 @@
 Project Management Admin Dashboaard
 
+Mysql Database will shared here
+project_management.sql
+
 1.Validation check 
 2.Protect a route using middlewares
 3.Includes Sweet alert for softdelete
