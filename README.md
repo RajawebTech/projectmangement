@@ -7,17 +7,17 @@ Project Management Admin Dashboaard
 
 superadmin(having all access)
 Credentials :
-superadmin@gmail.com
-superadmin123
+email : superadmin@gmail.com
+password : superadmin123
 
 
 teammember(able to show and edit and delete tasks)
 Credentials : 
-team@gmail.com
-team123
+email :team@gmail.com
+password :team123
 
 
 project manager(able to assign task to team members and create a team members)
 Credentials :
-projectmanager@gmail.com
-projectmanager123
+email : projectmanager@gmail.com
+password : projectmanager123
